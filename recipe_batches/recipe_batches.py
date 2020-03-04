@@ -1,9 +1,16 @@
-#!/usr/bin/python
+#! python3
 
 import math
 
 def recipe_batches(recipe, ingredients):
-  pass 
+  # Create a list of all dict keys for recipe
+  recipe_list = list(recipe.keys())
+
+  # Iterate through list of recipe ingredients
+  # for each key, divide ingredients value by recipe value
+  # Batches = dividen
+
+
 
 
 if __name__ == '__main__':
